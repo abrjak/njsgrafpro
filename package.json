@@ -22,7 +22,7 @@
     "dateformat": "^3.0.3",
     "express": "^4.17.1",
     "http": "0.0.1-security",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "mysql": "^2.18.1",
     "string-builder": "^0.1.6",
     "xml-js": "^1.6.11"
